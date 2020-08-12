@@ -1,4 +1,4 @@
-#If you run a 10 kilometer race in 42 minutes 42 seconds, what is your average pace (time per mile in minutes and seconds)? What is your average speed in miles per hour? (Hint: there are about 1.61 kilometers in a mile.)
+# "If you run a 10 kilometer race in 42 minutes 42 seconds, what is your average pace (time per mile in minutes and seconds)? What is your average speed in miles per hour?"
 
 km_to_m  = 10 / 1.61
 
