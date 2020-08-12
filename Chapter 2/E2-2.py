@@ -1,3 +1,6 @@
+# "Suppose the cover price of a book is $24.95, but bookstores get a 40% discount. Shipping costs $3 for the first copy and 75 cents for each additional copy.
+#  What is the total wholesale cost for 60 copies?"
+
 b_price = 24.95 #price of a book (the store has -40% discount)
 
 tot_price_disc = (b_price - 2.495 * 4) * 60 #the total price of the books with the -40% discount (2.495 = 10% * 4 = 40% discount)
