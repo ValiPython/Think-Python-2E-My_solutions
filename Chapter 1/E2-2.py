@@ -1,4 +1,4 @@
-# How many miles are there in 10 km ? Hint: 1 mile = 1.61 km
+# "How many miles are there in 10 kilometers? Hint: there are 1.61 kilometers in a mile."
 
 km_to_m  = 10 / 1.61
 
